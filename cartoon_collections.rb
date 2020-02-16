@@ -41,4 +41,3 @@ end
   # code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-end
